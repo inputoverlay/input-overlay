@@ -7,7 +7,6 @@ Available for OBS Studio on Windows and Linux (64bit).
 Head over to [releases](https://github.com/univrsal/input-overlay/releases) for binaries.
 
 ## [Wiki](https://github.com/univrsal/input-overlay/wiki)
-## [Installation](https://github.com/univrsal/input-overlay/wiki/Installation)
 ## Credits
 input-overlay depends on [libuiohook](https://github.com/kwhat/libuiohook) by [kwhat](https://github.com/kwhat) licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.txt), [mongoose](https://github.com/cesanta/mongoose) licensed under the [GNU General Public License v2.0](https://www.gnu.org/licenses/gpl-2.0.txt), [SDL2](https://libsdl.org) licensed under the [zlib license](https://www.zlib.net/zlib_license.html).
 
